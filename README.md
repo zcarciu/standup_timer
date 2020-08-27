@@ -6,3 +6,8 @@ A python script that pops up a tkinter window to remind you to stand up at some 
 or
 
 ```python standup_timer.py #defaults to 20```
+
+<br/>
+<br/>
+
+![Example:](tk_screenshot.png)
